@@ -1,84 +1,35 @@
 #main-headline {
 
 
-
-
-
 text-align: center;
 
-
-
-
-color: blue;
-
-
-
+color:red;
 
 }
 
 h2 {
-
-
-
-
+  
 text-align: center;
 
 
-
-
 }
-
-.place-description {
-
-
 
 
 color: olive;
 
 
-
-
 font-family: Verdana;
-
-
-
-
-}
-
-.person-description {
-
-
-
-
-color: purple;
-
-
-
-
-}
-
-.top-favorite {
-
-
 
 
 font-style: italic;
 
 
-
-
 font-weight: bold;
-
-
 
 
 color: red;
 
 }
-
-.important-point {
-
-
 
 
 text-decoration: underline;
@@ -86,16 +37,9 @@ text-decoration: underline;
 
 }
 
-
-.emphasis {
-
-
-
-
 font-style: italic;
 
 
 
 
 }
-
